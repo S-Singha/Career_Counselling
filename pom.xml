@@ -8,11 +8,11 @@
 		<version>2.6.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.quickLaunch</groupId>
-	<artifactId>QuickLaunch</artifactId>
+	<groupId>com.CareerVision</groupId>
+	<artifactId>CareerVision</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>QuickLaunch</name>
-	<description>Project for Quick Launch</description>
+	<name>Career Vision</name>
+	<description>Career Management System</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
